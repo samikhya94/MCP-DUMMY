@@ -13,3 +13,4 @@ resources:
 - crds/openmcp.cloud_platformservices.yaml
 - crds/openmcp.cloud_serviceproviders.yaml
 - cluster-providers/kind.yaml
+- extra/crossplane-provider.yaml
